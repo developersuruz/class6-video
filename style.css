@@ -1,0 +1,73 @@
+
+/* google-fonts */
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Yellowtail', cursive; */
+/* google-fonts */
+
+
+
+/* default CSS */
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* main-div */
+.main-div{
+margin-left: 10px;
+margin-right: 10px;
+}
+
+h1{
+    background-color: green;
+    color: white;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 60px;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+h2{
+    text-align: right;
+    background-color: #2bda46;
+    color: #FF337D;
+    font-family: 'Montserrat'; sans-serif;
+    text-decoration: overline;
+    text-transform: lowercase;
+}
+
+h3{
+    background-color: rgb(14, 51, 107 );
+    color: rgb(230, 212, 215) ;
+    text-align: justify;
+    font-size: 30px;
+    ont-family: Roboto; sans-serif; 
+    text-decoration: line-through;
+    text-transform: capitalize;
+}
+h4{
+    background-color: hsl(45.1, 95.2%, 51%);
+    color: hsl(236.2, 95.2%, 51%);
+    font-size: 40px;
+    font-family: Open Sans; sans-serif;
+
+}
+.letter-spacing{ 
+    letter-spacing: 2px;
+}
+.line-height{
+    line-height: 30px;
+    color: red
+}
+.word-spacing{
+    word-spacing: 20px;
+    color: blue;
+}
+/* footer-bottom */
+.footer-bottom{
+    text-align: center;
+}
